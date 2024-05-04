@@ -1,0 +1,13 @@
+body{
+    background-image: url("New folder/world.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+.m1{
+    text-align: center;
+    
+}
+.s1{
+    margin-bottom: 50px;
+}

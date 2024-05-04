@@ -1,0 +1,60 @@
+body{
+    background-image: url("New folder/rocket.jpg");
+   
+   background-size: cover;
+   height: 100vh;
+   background-position: center;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.n1{
+    
+    color:white;
+    margin-top: 10px;
+    margin-left: 30px;
+    
+}
+li,ul,h1{
+    display:inline;
+}
+ul{
+    margin-left: 60%;
+    
+    
+}
+li{
+    margin-left: 30px;
+    
+}
+.three a{
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    transition: .3s;
+   
+}
+.three a:hover{
+    color:black;
+
+}
+.n2{
+    text-align: center;
+    margin-top: 20px;
+}
+.two{
+    
+    color:blanchedalmond;
+}
+input{
+    width:60%;
+    height: 40px;
+    }
+.n3{
+    text-align: center;
+    margin-top: 50px;
+    }
